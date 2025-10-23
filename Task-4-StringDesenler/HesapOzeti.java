@@ -1,4 +1,4 @@
-public class AlisverisListesi {
+public class HesapOzeti {
     public static void main(String[] args) {
         // Ürünler, miktar ve fiyatlar
         String[] urunler = {"Elma", "Ekmek", "Süt", "Peynir", "Domates"};
@@ -16,3 +16,4 @@ public class AlisverisListesi {
         System.out.println("------------------------------------------------");
     }
 }
+
