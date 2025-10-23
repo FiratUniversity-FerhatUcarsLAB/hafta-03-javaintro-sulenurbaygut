@@ -1,19 +1,7 @@
-
 public class Faktoriyel {
     public static void main(String[] args) {
-        int sayi = 5;
-        int faktoriyel = 1;
-        String ifade = "";
-
-        for (int i = 1; i <= sayi; i++) {
-            faktoriyel *= i;
-            ifade += i;
-            if (i < sayi) {
-                ifade += " x ";
-            }
-            System.out.println("Adım " + i + ": " + faktoriyel);
-        }
-
-        System.out.println("\n" + sayi + "! = " + ifade + " = " + faktoriyel);
+        int faktoriyel = 1 * 2 * 3 * 4 * 5;
+        System.out.println("5! = 1 x 2 x 3 x 4 x 5 = " + faktoriyel);
     }
 }
+
