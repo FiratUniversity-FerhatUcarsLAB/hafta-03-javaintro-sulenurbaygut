@@ -1,4 +1,4 @@
-public class DonusumTablosu {
+public class MilKilometreTablosu {
     public static void main(String[] args) {
         System.out.println("Dönüşüm Tablosu:");
         System.out.println("Mil → Kilometre (1 mil = 1.609 km)");
@@ -10,3 +10,4 @@ public class DonusumTablosu {
         System.out.println("50 mil = " + (50 * 1.609) + " km");
     }
 }
+
