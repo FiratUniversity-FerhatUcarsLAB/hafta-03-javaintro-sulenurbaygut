@@ -1,4 +1,4 @@
-public class CarpimTablosu2 {
+public class CarpimTablosu {
     public static void main(String[] args) {
         System.out.println("2'nin Çarpım Tablosu:");
 
@@ -14,3 +14,4 @@ public class CarpimTablosu2 {
         System.out.println("2 x 10 = " + (2 * 10));
     }
 }
+
