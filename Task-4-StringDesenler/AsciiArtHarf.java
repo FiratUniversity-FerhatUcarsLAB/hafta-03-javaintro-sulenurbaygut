@@ -1,4 +1,4 @@
-public class ASCII_S {
+public class AsciiArtHarf {
     public static void main(String[] args) {
         System.out.println("  #####  ");
         System.out.println(" #       ");
@@ -10,3 +10,4 @@ public class ASCII_S {
         System.out.println("    #    ");
     }
 }
+
