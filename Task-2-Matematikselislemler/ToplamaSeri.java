@@ -1,16 +1,7 @@
 public class ToplamaSeri {
     public static void main(String[] args) {
-        int toplam = 0;
-        String ifade = "";
+        int toplam = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9;
 
-        for (int i = 1; i <= 9; i++) {
-            toplam += i;
-            ifade += i;
-            if (i < 9) {
-                ifade += " + ";
-            }
-        }
-
-        System.out.println(ifade + " = " + toplam);
+        System.out.println("1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = " + toplam);
     }
 }
